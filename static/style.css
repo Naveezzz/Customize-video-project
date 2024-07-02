@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#videoContainer {
+    margin-top: 20px;
+}
+
+video {
+    max-width: 100%;
+    height: auto;
+}
